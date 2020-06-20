@@ -1,1 +1,1 @@
-#This a description of how to design a broken line using css grid.
+#This a description of how to design a braking line using css grid.
